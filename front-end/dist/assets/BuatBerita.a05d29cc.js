@@ -1,0 +1,1 @@
+import{j as t,F as a,a as e}from"./vendor.398990a8.js";function n(){return t(a,{children:[e("div",{className:"text-center font-bold text-xl text-gray-600",children:"Mohon Maaf"}),e("div",{className:"text-center font-bold text-xl text-gray-600",children:"Halaman ini Belum Tersedia"})]})}export{n as default};
