@@ -38,6 +38,6 @@ export const serverImagePath = () => {
   if (process.env.NODE_ENV !== "production") {
     return "http://localhost:4000";
   } else {
-    return "http://be-logistic.hendzfloristaglonema.com";
+    return "https://be-logistic.hendzfloristaglonema.com";
   }
 };
